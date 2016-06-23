@@ -50,3 +50,17 @@ C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\System.Web.Ht
 C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\obj\Debug\LiveMessages.csprojResolveAssemblyReference.cache
 C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\obj\Debug\LiveMessages.dll
 C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\obj\Debug\LiveMessages.pdb
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\EntityFramework.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\EntityFramework.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex Bello\Documents\GitHub\LiveMessages\LiveMessages\bin\Microsoft.Owin.Security.OAuth.xml
